@@ -1,0 +1,60 @@
+Objetivo del proyecto
+Desarrollar un videojuego clásico (Snake) en Python
+
+Objetivos especificos:
+Practicar bucles, funciones, listas y eventos
+Usar Pygame para gráficos y manejo del teclado
+
+Historia como se origino el juego de  la serpiente
+Origen (1976):
+ - Diseñadores buscaban mecánicas simples para
+ arcades limitados.
+
+ - Gremlin Industries crea Blockade: dos líneas
+ que crecen y no deben chocar.
+
+ - Inspirado en la estrategia y anticipación de
+ juegos de mesa
+
+ Evolución (1997):
+ - Se adapta a una serpiente que come y
+ crece.
+ 
+ - Nokia lo populariza: juego sencillo, adictivo
+ y perfecto para móviles.
+ 
+ - Se convierte en un clásico mundial de
+ jugabilidad simple.
+
+
+Características:
+
+Menú de inicio y de reinicio.
+Contador de puntaje en pantalla.
+Aumento de tamaño de la serpiente al comer comida.
+Pantalla de derrota con opciones: Reiniciar, Volver al menú o Salir.
+
+Mejoras para el proyecto:
+
+Aumentar la velocidad progresivamente.
+Agregar niveles o fondos distintos.
+Añadir música o efectos de sonido.
+
+¿Por qué se pensó e hizo este proyecto?
+
+Fue desarrollado con el propósito de aplicar de manera práctica los conocimientos adquiridos en programación. 
+
+La elección del juego de la serpiente se dio porque:
+
+Es un proyecto clásico y accesible para reforzar lógica de programación.
+Permite aprender y practicar el uso de Python junto con la librería Pygame.
+Facilita la implementación de conceptos como ciclos, funciones, manejo de eventos, condicionales y estructuras de datos.
+Representa un reto interesante en términos de diseño, interactividad y control de errores.
+Sirve como una introducción al desarrollo de videojuegos y la integración con interfaces gráficas.
+
+Propuesta  para vender el juego
+Nuestro juego de la serpiente reinventado de un clásico, ofreciendo diversión adictiva y un desafío constante para todas las edades.- 
+Con controles sencillos y gráficos llamativos, promete entretener mientras pones a prueba tu estrategia y reflejos, -
+convirtiéndose en el juego perfecto para cualquier momento de aburrimiento con futuros cambios en su interfaz, niveles, forma de la serpiente.
+
+
